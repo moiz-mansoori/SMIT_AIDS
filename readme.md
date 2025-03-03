@@ -1,22 +1,28 @@
-# Python Basics Assignments and Mandatory Project
+# SMIT-AIDS Assignments and Projects
 
-This repository contains Python assignments provided as part of the **Saylani Mass IT Program** in the **Artificial Intelligence and Data Science** track. These assignments cover the fundamentals of Python programming, including functions, loops, lists, and other basic constructs. Additionally, the repository includes the **Mandatory Project**, which showcases practical implementation of the concepts learned.
+This repository contains Python assignments provided as part of the **Saylani Mass IT Program (SMIT)** in the **Artificial Intelligence and Data Science** course. These assignments cover the fundamentals of Python programming, including functions, loops, lists, and other core concepts. Additionally, the repository includes a **Mandatory Project**, and **Data Visualization** tasks using Python libraries like **NumPy, Pandas, Matplotlib, and Seaborn**.
 
 ## Overview
 
-The repository includes:
+This repository includes:
 
-### Assignments:
-### Mandatory Project:
-- The repository also includes a **Mandatory Project**.  
+### 📌 Assignments  
+- A collection of Python programming exercises covering fundamental concepts.
+
+### 📌 Mandatory Project  
+- A project that applies learned concepts in a practical scenario.
+
+### 📌 Tasks for Data Visualization  
+- Assignments focused on **Data Visualization** techniques using Python libraries.
 
 ## Purpose
 
-These assignments and the mandatory project are designed to:
-- Strengthen understanding of Python.
-- Provide hands-on practice with core programming concepts.
-- Build a solid foundation for advanced topics in artificial intelligence and data science.
+These assignments and projects are designed to:
+✔ Strengthen understanding of Python programming.  
+✔ Provide hands-on practice with essential coding concepts.  
+✔ Build a foundation for advanced topics in AI and Data Science.
 
+## Author  
+**Moiz Mansoori**  
+**333989**
 
-## Author
-**Moiz Mansoori**
